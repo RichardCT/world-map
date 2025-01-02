@@ -97,7 +97,9 @@ function fetchCountryData(countryName, callback) {
         'https://lh3.googleusercontent.com/d/13O3ILmdfdP5c0k_sHlW3NP4I7XOpfgK7',
         'https://lh3.googleusercontent.com/d/1wdMtHKL-O-j-az4tABVtAgzSlqrI-hIG',
         'https://lh3.googleusercontent.com/d/1v1GGqzU9KG_z3JbY7i11a67YgFMw-ay6',
-        'https://lh3.googleusercontent.com/d/1ZdXUxeGXj6-_Dp1HFRyphONEeTtHRjI-'
+        'https://lh3.googleusercontent.com/d/1ZdXUxeGXj6-_Dp1HFRyphONEeTtHRjI-',
+        'https://lh3.googleusercontent.com/d/1i4sPRN5dwgvLU-67HMW9uiAuIptnO7xv',
+        'https://lh3.googleusercontent.com/d/1T-_8q8RRSxqX7AaL6TJg3ZSE5MSBJ7Qp'
       ],
       videos: [
         'https://drive.google.com/file/d/132ZvdHXj_doC73x_lScG_e1u01KtcLr7/preview'
@@ -106,7 +108,11 @@ function fetchCountryData(countryName, callback) {
     'Queretaro': {
       images: [
         'https://lh3.googleusercontent.com/d/13DNaTvpPP3c0FU7BNjhnK7FDG0kywtqJ',
-        'https://lh3.googleusercontent.com/d/138KxEFT3gB8rXMd2-xZkq08CUgQ8d0UF'
+        'https://lh3.googleusercontent.com/d/138KxEFT3gB8rXMd2-xZkq08CUgQ8d0UF',
+        'https://lh3.googleusercontent.com/d/1S3UUjcVlqjax9t2OVjRlfqAjQP1pE2gV',
+        'https://lh3.googleusercontent.com/d/1pIhSAqZ71Q5ac12YV4IlIBKCCzeiXUzq',
+        'https://lh3.googleusercontent.com/d/1SIBmqDgf6VqaJ-nK1MSmPiym1iN8LsQ_',
+        'https://lh3.googleusercontent.com/d/12ZMUsMRLaLyDMCXXk8XU8Z4qUuCpUVMs'
       ],
       videos: [
 
@@ -115,7 +121,11 @@ function fetchCountryData(countryName, callback) {
     'Amsterdam': {
       images: [
         'https://lh3.googleusercontent.com/d/19wrL_JceXMKoPR_sY5BJpo3SdNim_KVK',
-        'https://lh3.googleusercontent.com/d/1RDkfGNcNxQuHl5UQUVsbr8LJsJ0Hg95j'
+        'https://lh3.googleusercontent.com/d/1RDkfGNcNxQuHl5UQUVsbr8LJsJ0Hg95j',
+        'https://lh3.googleusercontent.com/d/1e2Tb_YTWa-t0M7M5EI56GV_EV9H10ic9',
+        'https://lh3.googleusercontent.com/d/1VRmlsRDWVp5fKoh7NlbhQJEb6E7NdQjX',
+        'https://lh3.googleusercontent.com/d/1Z6pB6T-6P3h1Gl4csri2spj3daapB4I1',
+        'https://lh3.googleusercontent.com/d/1qhNiC3MAt4_XxdeHFjZWxLitU99bwInb'
       ],
       videos: [
 
@@ -126,7 +136,9 @@ function fetchCountryData(countryName, callback) {
         'https://lh3.googleusercontent.com/d/1_anc0Jcn079u4bPH698KT5fk_Uf_U8qu',
         'https://lh3.googleusercontent.com/d/1enTPdayzvMMVRV72bg5CiaS0c5dJ9y3o',
         'https://lh3.googleusercontent.com/d/1A8vvunJOY5ZSa2_4MJC75bqibQyVnxmT',
-        'https://lh3.googleusercontent.com/d/1bgSDGsve4mazVXarKXWc74SPETY2QDzW'
+        'https://lh3.googleusercontent.com/d/1bgSDGsve4mazVXarKXWc74SPETY2QDzW',
+        'https://lh3.googleusercontent.com/d/14jDlqCQbRzKy9Oge59U7aidZny0_7Nk-',
+        'https://lh3.googleusercontent.com/d/1W836eeUHWHVlJEp8vArqOEdYfINt52Im'
       ],
       videos: [
 
@@ -163,7 +175,10 @@ function fetchCountryData(countryName, callback) {
       images: [
         'https://lh3.googleusercontent.com/d/12yiVSFq9suyMbW0rTBTvCNzR-n8_60xk',
         'https://lh3.googleusercontent.com/d/1DcjNjklw1EDsxvvdPurRLEs400TUQoLb',
-        'https://lh3.googleusercontent.com/d/1ZCDGYa966JYYmSPozm1Vuu8Bm--PRa3G'
+        'https://lh3.googleusercontent.com/d/1ZCDGYa966JYYmSPozm1Vuu8Bm--PRa3G',
+        'https://lh3.googleusercontent.com/d/1SlWq4j6m4ApBTGH62HS2IFeOJUw8kfNl',
+        'https://lh3.googleusercontent.com/d/130FJ7Y1Gz66n9ER_WWeIa1WhROBoAnrZ',
+        'https://lh3.googleusercontent.com/d/1sLwILTx-dyVhEI6229ER51jbpaGBqFVz'
       ],
       videos: [
 
@@ -171,10 +186,14 @@ function fetchCountryData(countryName, callback) {
     },
     'Miami': {
       images: [
-        'https://lh3.googleusercontent.com/d/1gavwS4SB6yXNJ_sgrrx7uRq0xeH3tpDp'
+        'https://lh3.googleusercontent.com/d/1gavwS4SB6yXNJ_sgrrx7uRq0xeH3tpDp',
+        'https://lh3.googleusercontent.com/d/1Mpl1sTAcAJWILx3FfZggT3WhgbsTwNMR',
+        'https://lh3.googleusercontent.com/d/1ccBh7stgd3TepGiH8NwQCZBApfDROp2a',
+        'https://lh3.googleusercontent.com/d/1APG02-1Rsi8qfdGw8KSRBYXjSiQk3hP4',
+        'https://lh3.googleusercontent.com/d/1bcgNF5sSev10_veYvvK54AeDiFgOfH2P'
       ],
       videos: [
-
+        'https://drive.google.com/file/d/11UGTouh3emwd6dyFIctx6MNtjt82DbG2/preview'
       ]
     },
     'Chiang Mai': {
@@ -212,10 +231,13 @@ function fetchCountryData(countryName, callback) {
     },
     'Tokyo': {
       images: [
-        'https://lh3.googleusercontent.com/d/10A6c9QZ3NuQ3oSvnVeziLnoVkUgpaEB8'
+        'https://lh3.googleusercontent.com/d/10A6c9QZ3NuQ3oSvnVeziLnoVkUgpaEB8',
+        'https://lh3.googleusercontent.com/d/1yamxXJlz9d5RADSVfKfHKeKLpEF9Mbuj',
+        'https://lh3.googleusercontent.com/d/15Hy7_k-7CmKUbHH41vNLWSIMyqq_fPIR',
+        'https://lh3.googleusercontent.com/d/1i99_pn4fm9-dZSSl0gxh5gyzOcyvGN9I'
       ],
       videos: [
-
+        'https://drive.google.com/file/d/1kvRksbsnDKq-_PyUQGZf00XbvAHjHQSY/preview'
       ]
     },
     'Mazatlan': {
@@ -231,7 +253,12 @@ function fetchCountryData(countryName, callback) {
     },
     'Tallinn': {
       images: [
-        'https://lh3.googleusercontent.com/d/1zZkq5T5mrqUcZVBEqUEA_ERYP43cB0Bc'
+        'https://lh3.googleusercontent.com/d/1zZkq5T5mrqUcZVBEqUEA_ERYP43cB0Bc',
+        'https://lh3.googleusercontent.com/d/17jlsJE3R0ckgJHMC4T5p_JOpzlV6IZSG',
+        'https://lh3.googleusercontent.com/d/1lokiO6_26ZfzXsAAZq0Lpwl4--0-3saJ',
+        'https://lh3.googleusercontent.com/d/1f-KD9jr2BiwyHFMIj9uqK3ljC44a1Kcx',
+        'https://lh3.googleusercontent.com/d/1KAUkz6EvijcJDuXRdKNeBVk6H2a8trPn',
+        'https://lh3.googleusercontent.com/d/1biQzSZ56MyRU5c6p8PyBpoOn9RDhntMj'
       ],
       videos: [
 
@@ -249,10 +276,13 @@ function fetchCountryData(countryName, callback) {
     'CDMX': {
       images: [
         'https://lh3.googleusercontent.com/d/1Qs2vpzxp3ojGk8hiqlHSwtzALl860S2R',
-        'https://lh3.googleusercontent.com/d/135MLahEiCy1qNK2WagY_X2gn0zNGxDDU'
+        'https://lh3.googleusercontent.com/d/135MLahEiCy1qNK2WagY_X2gn0zNGxDDU',
+        'https://lh3.googleusercontent.com/d/1Y-umPWgQE7OlUafY0VNGITbcP8HQsuHG',
+        'https://lh3.googleusercontent.com/d/1IgOn7qlDkahnv2GRA0cmpiDS26SKhx-n'
       ],
       videos: [
-        'https://drive.google.com/file/d/136dpLtLTpWG9SRrApDeeE2l4-Fx-hbPM/preview'
+        'https://drive.google.com/file/d/136dpLtLTpWG9SRrApDeeE2l4-Fx-hbPM/preview',
+        'https://drive.google.com/file/d/1FN7gkLbBZfA8d7smOENBlJ-mG0y74BYT/preview'
       ]
     },
     'Tapalpa': {
@@ -280,7 +310,11 @@ function fetchCountryData(countryName, callback) {
     },
     'Arizona': {
       images: [
-        'https://lh3.googleusercontent.com/d/1EjqNduaiQUjdnFrrMszUOePJ16QmhSMr'
+        'https://lh3.googleusercontent.com/d/1EjqNduaiQUjdnFrrMszUOePJ16QmhSMr',
+        'https://lh3.googleusercontent.com/d/1dGp_PCyA4YZNR3q1Nh3NEBs5llx1b3UR',
+        'https://lh3.googleusercontent.com/d/1pK3vVfsV-9EZvHeRXMYiC9-rRYa5cHze',
+        'https://lh3.googleusercontent.com/d/1jYwh21MPmto_hJqLJJ88trLAKVUkBl8E',
+        'https://lh3.googleusercontent.com/d/1nylGjfDDuA9BogzSasW37pvkJVHFN9r2'
       ],
       videos: [
         'https://drive.google.com/file/d/13MvHC_Gx5-5hakPxxDEWKRScF8ThamXE/preview'
@@ -299,10 +333,12 @@ function fetchCountryData(countryName, callback) {
     },
     'Brussels': {
       images: [
-        'https://lh3.googleusercontent.com/d/1kqmijBunYNwNDbfhkid8DvHq8-PnR1mD'
+        'https://lh3.googleusercontent.com/d/1kqmijBunYNwNDbfhkid8DvHq8-PnR1mD',
+        'https://lh3.googleusercontent.com/d/1sUfZm_HGkt70Xd0cPOVXpdhC9Ud9kPYm',
+        'https://lh3.googleusercontent.com/d/1JhlyimunB6OQuKw91jXebyIOM1v9MHtK'
       ],
       videos: [
-
+        'https://drive.google.com/file/d/1H9CUQcOUBdjhk4M2TstR6VeQBc75ROcI/preview'
       ] 
     },
     'Ixtapa-Zihuatanejo': {
@@ -320,10 +356,11 @@ function fetchCountryData(countryName, callback) {
     },
     'Tequila': {
       images: [
-        'https://lh3.googleusercontent.com/d/12sNwkkzJ9uVAQ1a1EKfVmUwVKd8cyTgM'
+        'https://lh3.googleusercontent.com/d/12sNwkkzJ9uVAQ1a1EKfVmUwVKd8cyTgM',
+        'https://lh3.googleusercontent.com/d/1FfdhNgcMeWy9v-PxXDy4wylHYteambbz'
       ],
       videos: [
-
+        'https://drive.google.com/file/d/13SvwFTia-rWyYFZNVU4jcs8c1MCsBG7D/preview'
       ]
     },
     'Singapore': {
@@ -378,7 +415,12 @@ function fetchCountryData(countryName, callback) {
     },
     'Montreal': {
       images: [
-        'https://lh3.googleusercontent.com/d/1SEq_p1TOuJ-mf-LVIstxTtqXdA_DW9ys'
+        'https://lh3.googleusercontent.com/d/1SEq_p1TOuJ-mf-LVIstxTtqXdA_DW9ys',
+        'https://lh3.googleusercontent.com/d/16YEPTfhJTAO9YUiOdVa0qGVmyzT25P7r',
+        'https://lh3.googleusercontent.com/d/11NDZMWAZBlCpBNl8FUGeyOi7oqZNhwnz',
+        'https://lh3.googleusercontent.com/d/1-HdYgWlMayJSvuodizG9PX7t0fLTfuRM',
+        'https://lh3.googleusercontent.com/d/1VxCe0aLfRlexWQSJYI-CCiCPbLHUfXWG',
+        'https://lh3.googleusercontent.com/d/1QOyR-hlgQllREQ6jK24Isfr4bmILYk-T'
       ],
       videos: [
 
